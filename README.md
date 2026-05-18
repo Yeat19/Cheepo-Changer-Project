@@ -12,3 +12,8 @@ Also I cannot stress this enough, DO NOT DO THIS TO YOUR ONLY WORKING PRINTER. Y
 Project Cheepo Changer on an Ender 5 Pro 
 <img width="3060" height="4080" alt="20260517_115226" src="https://github.com/user-attachments/assets/979bbbf8-c110-47d2-8c33-4b797aa7999c" />
 
+Upclose image of the tool head: 
+<img width="3060" height="4080" alt="20260517_115235" src="https://github.com/user-attachments/assets/39bd2481-c610-4aa0-84ce-33d8c150559a" />
+
+Image of the two tools
+<img width="4080" height="3060" alt="20260517_115241" src="https://github.com/user-attachments/assets/4baf2862-c09d-41e1-9cf0-c1f546a865e1" />

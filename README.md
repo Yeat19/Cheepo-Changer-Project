@@ -10,4 +10,5 @@ It is important to note that this is not an easy project, before attempting you 
 Also I cannot stress this enough, DO NOT DO THIS TO YOUR ONLY WORKING PRINTER. You will suffer when inevitably something goes wrong. 
 
 Project Cheepo Changer on an Ender 5 Pro 
+<img width="3060" height="4080" alt="20260517_115226" src="https://github.com/user-attachments/assets/979bbbf8-c110-47d2-8c33-4b797aa7999c" />
 

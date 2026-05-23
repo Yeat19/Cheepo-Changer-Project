@@ -17,3 +17,4 @@ Upclose image of the tool head with covers removed:
 
 Image of the two tools
 <img width="4080" height="3060" alt="20260517_115241" src="https://github.com/user-attachments/assets/4baf2862-c09d-41e1-9cf0-c1f546a865e1" />
+
